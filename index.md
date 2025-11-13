@@ -32,7 +32,7 @@ Focus on what really matters and stop drowning in endless to-do lists.
 ## Support
 
 Need help or have a feature request?  
-Visit our [Support page](./support) or contact us: **your-email@example.com**.
+Visit our [Support page](./support) or contact us: **eholodnaya@gmail.com**.
 
 ---
 
